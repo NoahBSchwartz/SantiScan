@@ -18,7 +18,7 @@
 In person, the effect is convincing enough to give the illusion of looking through the screen. In fact, it's more effective than 3D glasses in some cases because of the head tracking.
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![unnamed__4_-removebg-preview](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/3eeae46e-b1d2-4cdd-91ca-6b222211ae1a)
-ㅤㅤㅤ![unnamed__5_-removebg-preview](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/a0088407-cbbc-4115-b61a-0ea14475dcc9)
+ㅤ![unnamed__5_-removebg-preview](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/a0088407-cbbc-4115-b61a-0ea14475dcc9)
 
 
 
