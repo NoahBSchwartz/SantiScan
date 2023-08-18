@@ -1,4 +1,4 @@
 # SantiScan
 https://nbschwa.wixsite.com/santi-scan
 
-<img width="106" alt="Screenshot 2023-08-18 at 4 22 54 PM" src="https://github.com/NoahBSchwartz/SantiScan/assets/44248582/13f87923-0338-4f1c-b638-1910b415e9e7">
+![Screenshot 2023-08-18 at 4 28 12 PM](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/46f15f0f-4e0f-4821-ae71-4a33645329a5)
