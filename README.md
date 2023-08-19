@@ -19,8 +19,8 @@ Total cost:
      - These 20 points are used to perfectly mask the hand from its background using the [Segment Anything](https://github.com/facebookresearch/segment-anything.git) approach
   
   3. #### Hand Recognition
-     - Now that each frame only contains data about the palm, the video can be cross-referenced with our palm database using Keras (with 96% accuracy)
-     - This data can finally be saved in a google spreadsheet and then displayed on our [website](https://nbschwa.wixsite.com/santi-scan)
+     - Now that each frame only contains data about the palm, the video can be cross-referenced with our palm database using Keras (with 97% accuracy)
+     - This data can finally be permanently saved in a spreadsheet and then displayed on our [website](https://nbschwa.wixsite.com/santi-scan)
 
 ## 🎉 Result
 The final product is compact enough to look and function exactly like a normal automatic soap dispenser. The only changes are a small maintenance port and 3 switches on the backside of the device.
