@@ -1,7 +1,7 @@
 # SantiScan
 
 ## 🦠 Introduction
-  This product was a collaboration between 
+  
 
 ## Hardware
 Total cost:
@@ -47,5 +47,10 @@ https://nbschwa.wixsite.com/santi-scan
 
 ## 👥 Contributors
 
-- Noah Schwartz
-- 
+This product was a collaboration between the Computer Science and Biomedical programs at County High. The biomedical engineers came up with the project idea, validated, researched, and grounded their claims in scientific studies. I was responsible for the full software and hardware development. 
+
+- Noah Schwartz (Product Engineer)
+- Brandt Roman (Product Designer)
+- Taylor Gonzales (Product Designer)
+- Olivia Cordova (Product Designer)
+- Eric David (Documentation Writer
