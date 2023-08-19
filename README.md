@@ -3,13 +3,20 @@
 ## 🦠 Introduction
   This product was a collaboration between 
 
+## Hardware
+
+## Pretraining
+
 ## 🛠 Process
 
-  1. The ESP32-CAM captures and saves a video to its SD card each time the sanitizer is dispensed
-  2. When the user walks away, these frames are uploaded to a Google Colab notebook
-  3. A machine learning algorithm 
-  4. The camera follows these coordinates to move in sync with the viewer's movements for a convincing effect
-  5. Some post-processing on top gives the parallax effect.
+  1. #### On-Device processing
+     - The ESP32-CAM board captures and saves a video to its SD card each time the sanitizer is dispensed
+     - When the user walks away, each of these 15 frames are uploaded to a Google Colab notebook
+  2. #### Data Cleaning 
+     - A machine learning algorithm, [Mediapipe](https://google.github.io/mediapipe/solutions/face_mesh.html), locates each joint of the hand
+     - These 20 points are used to perfectly mask the hand from its background using the [Segment Anything](https://github.com/facebookresearch/segment-anything.git) approach
+  3. #### Hand Recognition
+     - Now that every frame only contains data about the palm, 
      ![Screenshot 2023-08-18 at 4 43 41 PM](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/4ba95f6c-d22e-4841-960e-10981f5f12d1)
 
 ㅤ
