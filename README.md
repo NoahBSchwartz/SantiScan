@@ -47,4 +47,4 @@ This product was a collaboration between the Computer Science and Biomedical pro
 - Brandt Roman (Product Designer)
 - Taylor Gonzales (Product Designer)
 - Olivia Cordova (Product Designer)
-- Eric David (Documentation Writer
+- Eric David (Documentation Writer)
