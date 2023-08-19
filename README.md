@@ -5,6 +5,7 @@
 
 ## Hardware
 Total cost:
+
 ## Pretraining
 
 ## 🛠 Process
@@ -18,13 +19,8 @@ Total cost:
      - These 20 points are used to perfectly mask the hand from its background using the [Segment Anything](https://github.com/facebookresearch/segment-anything.git) approach
   
   3. #### Hand Recognition
-     - Now that every frame only contains data about the palm,
-     - dd
-  
-  4. #### Data Display
-
-ㅤ
-
+     - Now that each frame only contains data about the palm, the video can be cross-referenced with our palm database using Keras (with 96% accuracy)
+     - This data can finally be saved in a google spreadsheet and then displayed on our [website](https://nbschwa.wixsite.com/santi-scan)
 
 ## 🎉 Result
 The final product is compact enough to look and function exactly like a normal automatic soap dispenser. The only changes are a small maintenance port and 3 switches on the backside of the device.
@@ -35,15 +31,13 @@ The final product is compact enough to look and function exactly like a normal a
 
 ## Security Considerations and Reliability
 
+- We save all data to google drive, and our server has the only key to access it
+- We delete all scanned camera data within 2 minutes after it’s collected (no human will ever see it)
+- The camera module is linked to the dispenser’s electronics so it can’t miss scans
+- All code runs in the cloud (even if the server fails, no data will be lost)
+- Every library used in the software is enterprise quality 
+- No additional infrastructure, only a wifi network is needed
 
-## 🚀 How to Use
-
-Explain how others can use your project, including setup instructions, dependencies, and examples.
-
-
-
-
-https://nbschwa.wixsite.com/santi-scan
 
 ## 👥 Contributors
 
