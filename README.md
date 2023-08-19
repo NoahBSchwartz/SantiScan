@@ -31,3 +31,8 @@ Explain how others can use your project, including setup instructions, dependenc
 
 https://nbschwa.wixsite.com/santi-scan
 
+## 👥 Contributors
+
+- Noah Schwartz
+- David Velarde
+- Eric David
