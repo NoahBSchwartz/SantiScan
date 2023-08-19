@@ -1,12 +1,20 @@
 # SantiScan
 
 ## 🦠 Introduction
-  
+SantiScan is a network of soap and sanitizer dispensers that use machine learning to accurately record how many times each employee washes their hands. With this method, hospitals can:
+- Automatically detect sanitation concerns on a case-by-case basis
+- Autonomously remind specific employees of the need for sanitation 
+- Track the spread of disease from room to room (based on when and where someone washes their hands)
 
 ## Hardware
-Total cost:
+- ESP32 circuit board: $8
+- HD camera module: $4
+- ESP32 boot loader: $4
+
+Total cost: Only $16 more than a normal dispenser
 
 ## Pretraining
+When the devices are installed, every hospital employee will need to be "scanned" into the system. They will move their hand back and forth underneath one of our cameras for 30 seconds, generating 900 frames of palm print data.
 
 ## 🛠 Process
    ![Screenshot 2023-08-18 at 4 43 41 PM](https://github.com/NoahBSchwartz/SantiScan/assets/44248582/4ba95f6c-d22e-4841-960e-10981f5f12d1)
