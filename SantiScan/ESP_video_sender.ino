@@ -1,3 +1,8 @@
+/*
+Nearly all of this code is pulled from: https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior/blob/master/ESP32-CAM-Video-Recorder-junior-50x-lpmod.ino. 
+I simply added a few lines to make it work with my application. 
+*/
+
 //#define LOG_LOCAL_LEVEL ESP_LOG_VERBOSE
 #include "esp_log.h"
 #include "esp_http_server.h"
