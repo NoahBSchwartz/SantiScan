@@ -10,7 +10,7 @@
 ## 🛠 Process
 
   1. #### On-Device processing
-     - The ESP32-CAM board captures and saves a video to its SD card each time the sanitizer is dispensed
+     - The ESP32-CAM captures and saves a video to its SD card each time the sanitizer is dispensed
      - When the user walks away, each of these 15 frames are uploaded to a Google Colab notebook
   2. #### Data Cleaning 
      - A machine learning algorithm, [Mediapipe](https://google.github.io/mediapipe/solutions/face_mesh.html), locates each joint of the hand
