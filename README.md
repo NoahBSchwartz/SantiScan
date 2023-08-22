@@ -2,9 +2,9 @@
 
 ## 🧼 Introduction
 
-SantiScan is a soap dispenser that uses computer vision to accurately record how many times each employee washes their hands. When a network of SantiScans is connected in a building, hospitals can:
+SantiScan solves the problem of poor employee hygiene in hospitals. It's a soap dispenser that uses computer vision to accurately record how many times each faculty member washes their hands. When a network of SantiScans is connected in a building, hospitals can:
 
-- Automatically detect sanitation concerns on a case-by-case basis
+- Automatically detect sanitation concerns on a person-by-person basis
 - Autonomously remind specific employees of the need for sanitation
 - Track the spread of disease from room to room (based on when and where someone washes their hands)
 
